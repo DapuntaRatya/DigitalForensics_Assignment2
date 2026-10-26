@@ -1,0 +1,13 @@
+Source: C:\Users\ASUS ZENBOOK\Documents\DapuntaXD\All About ITS\Semester 7\Forensik Digital\Tugas\DigitalForensics_Assignment2\03_Log2Timeline\02_Log\02_Parsing_Warnings_Details.txt
+Extraction warning blocks: 9655
+Unique warning identifiers: 9655
+
+Warning counts by parser chain:
+  sqlite/mac_knowledgec: 5265
+  utmp: 3848
+  plist: 475
+  (empty parser chain): 58
+  sqlite: 5
+  cups_ipp: 4
+
+Counts represent warnings, not unique files or lost events.

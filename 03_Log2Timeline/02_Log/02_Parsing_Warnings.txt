@@ -1,0 +1,17 @@
+﻿
+************************** Plaso Storage Information ***************************
+            Filename : 01_iOS_Timeline.plaso
+      Format version : 20260516
+Serialization format : json
+--------------------------------------------------------------------------------
+
+******************* Extraction warnings generated per parser *******************
+ Parser (plugin) name : Number of warnings
+--------------------------------------------------------------------------------
+                plist : 475
+          <No parser> : 58
+               sqlite : 5
+                 utmp : 3848
+sqlite/mac_knowledgec : 5265
+             cups_ipp : 4
+--------------------------------------------------------------------------------
